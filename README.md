@@ -16,6 +16,7 @@ This is the repository we use to keep track of all newsletters written and distr
 * Alex Dorbin
 * Boris Dyakov
 * Hossam Zaki (lead)
+* Tyler Stahl
 * Jocelynn Pearl 
 
 ## Financials (request for comments)
