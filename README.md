@@ -15,7 +15,7 @@ This is the repository we use to keep track of all newsletters written and distr
 ## Team (alphabetical order)
 * Alex Dorbin
 * Boris Dyakov
-* Hossam Zaki (lead)
+* Hossam Zaki
 * Tyler Stahl
 * Jocelynn Pearl 
 
