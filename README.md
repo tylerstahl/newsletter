@@ -1,4 +1,4 @@
-# newsletter
+# Newsletter
 This is the repository we use to keep track of all newsletters written and distributed within the LabDAO community. Using git to manage writing and editing processes might not be the most natural choice for most folks, so let's go through why we think this is a good tool and how to get the most out of using it. 
 
 ## Newsletter process (repeated monthly)
@@ -8,17 +8,17 @@ This is the repository we use to keep track of all newsletters written and distr
 4. ideally one week before the end of the preceding month post a "request for comments" into the general chat and link them to the newsletter issue you created in step 1.
 5. after sign-off by a core member, publish the article on revue and draft a tweet for @lab_dao. Non-core members need to work with core members for this step as they have access to these credentials.
 
-## technology
+## Technology
 * distribution via Revue
 * announcements via Twitter
 
-## team (alphabetical order)
+## Team (alphabetical order)
 * Alex Dorbin
 * Boris Dyakov
 * Hossam Zaki (lead)
 * Jocelynn Pearl 
 
-## financials (request for comments)
+## Financials (request for comments)
 * the production of a newsletter issue is rewarded with 500 USDC which includes writing, editing, illustration and distribution. The bounty is distributed among the newsletter team according to an internal mechanism. 
 * Mechanisms to swap USDC for LAB tokens will exist.
 
