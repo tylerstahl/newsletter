@@ -2,11 +2,17 @@
 This is the repository we use to keep track of all newsletters written and distributed within the LabDAO community. Using git to manage writing and editing processes might not be the most natural choice for most folks, so let's go through why we think this is a good tool and how to get the most out of using it. 
 
 ## Newsletter process (repeated monthly)
-1. source activities within the DAO for the current month by scanning discord channels, especially #general, #technology-stewardship and #growth. Collect these bullet points in an issue on this repository called YYYYMM (e.g. 202203)
-2. check in with the #technology-stewardship and # growth chat on up to 5 items that should be highlighted and add them to the issue thread on github.
-3. craft the activities into a succinct text that is called YYYYMM.md (e.g. 202203.md). You can use the last newsletter that was published as a template. For fast synchronous collaborative writing we recommend hackmd.io. For asychronous writing we recommend using the build-in editor within github that is accessible by hitting "." on your keyboard.
-4. ideally one week before the end of the preceding month post a "request for comments" into the general chat and link them to the newsletter issue you created in step 1.
-5. after sign-off by a core member, publish the article on revue and draft a tweet for @lab_dao. Non-core members need to work with core members for this step as they have access to these credentials.
+### Tracking labDAO activites:
+1. Source weekly activities within the DAO by scanning discord channels, especially #general, #technology-stewardship and #growth. Collect these bullet points in an issue on this repository called YYYYMM (e.g. 202203)
+2. A weekly recap is created in #week-in-review channel and used to help guide the monthly newsletter
+3. Verify in the #technology-stewardship and # growth chat on up to 5 items that should be highlighted and add monthly newsletter
+
+### Writing the NewsLetter
+4. Craft the activities into a succinct text that is called YYYYMM.md (e.g. 202203.md). You can use the last newsletter that was published as a template. For fast synchronous collaborative writing we recommend hackmd.io. For asychronous writing we recommend using the build-in editor within github that is accessible by hitting "." on your keyboard.
+5. One week before the end of the preceding month post a "request for comments" into the general chat and link them to the newsletter issue you created in step 1
+
+### Publishing and distrubution:
+6. after sign-off by a core member, publish the article on revue and draft a tweet for @lab_dao. Non-core members need to work with core members for this step as they have access to these credentials.
 
 ## Technology
 * distribution via Revue
