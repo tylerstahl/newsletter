@@ -12,7 +12,7 @@ This is the repository we use to keep track of all newsletters written and distr
 5. One week before the end of the preceding month post a "request for comments" into the general chat and link them to the newsletter issue you created in step 1
 
 ### Publishing and distrubution:
-6. after sign-off by a core member, publish the article on revue and draft a tweet for @lab_dao. Non-core members need to work with core members for this step as they have access to these credentials.
+6. After sign-off by a core member, publish the article on revue and draft a tweet for @lab_dao. Non-core members need to work with core members for this step as they have access to these credentials.
 
 ## Technology
 * distribution via Revue
